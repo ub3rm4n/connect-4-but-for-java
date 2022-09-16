@@ -1,12 +1,6 @@
 /*Name: Bryan Le
  * Date: 9/7/2022
  * Description: This is a game containing methods for connect 4, connect 5, and connect 3. 
- * NOTE: I profusely apologize for how long this program is. I am learning on the go about java
- *  and this project will definitely be my worst in terms of organization. I hope you will go easy on me. 
- *  I could not find a style guide, nor do I believe the professor highlighted one aside from what was
- *  lightly touched upon in the PA. For my connect 3 and connect 5 methods, I copy pasted what I had for connect 4.
- *  So it is just a lot of copy paste with slight revisions in the numbers in terms of what will be counted as a win. 
- *  Once again, I am sorry. It will not happen again. 
  */
 
 import java.util.Scanner;
